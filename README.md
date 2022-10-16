@@ -4,7 +4,7 @@
 
 ## Visualization of the Website
 
-![Form](./gallery.gif)
+![Form]([./palidPerfectNumbers.gif])
 
 ## Description
 
