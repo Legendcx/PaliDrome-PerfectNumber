@@ -25,20 +25,16 @@ At the end of the project, you will be able to;
 ## Project Skeleton
 
 ```
-Image Gellery Project(folder)
+Project(folder)
 |
 |----README.md
 ├── public
 │     └── index.html
 ├── src
 │    ├── components
-│    │       ├── Picture.jsx
-│    ├── pages
-│    │       ├── Homepage.jsx
-│    ├── helper
-│    │       └── data.js
-│    ├── styles
-│    │       ├── style.css
+│    │       ├── Main.jsx
+│    │       ├── Main.scss
+│    │       
 │    ├── App.js
 │    ├── index.js
 └── package.json
