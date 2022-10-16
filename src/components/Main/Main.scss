@@ -1,0 +1,82 @@
+.container {
+  // border: 2px solid red;
+  // height: 80vh;
+  width: 80vw;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  // background-color:moccasin;
+  h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-variant: small-caps;
+    padding: 0.5rem;
+    color: blue;
+  }
+
+  .explain {
+    display: flex;
+    font-size: 1.2rem;
+    background-color: rgb(228, 165, 206);
+    padding: 10px;
+    margin: 0.5rem auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    p{
+      padding: 10px;
+      background-color: rgb(228, 165, 206);
+      
+    }
+    
+    span {
+      background-color: rgb(228, 165, 206);
+      color: blue;
+      font-variant: small-caps;
+    }
+  }
+  
+  .inputs {
+    margin: 0 auto;
+    input {
+      padding: 1rem;
+      margin: 0 10px;
+      width: 15rem;
+      border-radius: 10px;
+      font-size: 1.4rem;
+      
+    }
+  }
+  .buttons {
+    font-variant: small-caps;
+    margin: 0 auto;
+    button {
+      font-size: 1.5rem;
+      padding: 1rem;
+      margin: 10px 10px;
+      width: 15rem;
+      color: blue;
+      background-color:rgb(228, 165, 206);
+      border-radius: 10px;
+      &:hover{
+        cursor: pointer;
+        background-color: rgb(222, 250, 224);
+      }
+    }
+  }
+  .results {
+    margin: 0 auto;
+    display: flex;
+    font-size: 1.4rem;
+    font-weight: 600;
+    div {
+      padding: 1rem;
+      margin: 10px 10px;
+      width: 15rem;
+      resize: none;
+      border-radius: 10px;
+      border: 1px solid black;
+      height: 400px;
+      overflow-y: auto;
+    }
+  }
+}
