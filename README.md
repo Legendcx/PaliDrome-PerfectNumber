@@ -1,6 +1,6 @@
 # Project : Template
 
-## Check The Live Website ➡️ [Live Website]([https://github.com/LegendcxPaliDrome-PerfectNumber/])
+## Check The Live Website ➡️ [Live Website](https://palindromandperfectnumber.netlify.app/)
 
 ## Visualization of the Website
 
