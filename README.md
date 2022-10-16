@@ -4,23 +4,28 @@
 
 ## Visualization of the Website
 
-![Form]([./palidPerfectNumbers.gif])
+![Form](./palidPerfectNumbers.gif)
 
 ## Description
 
-Project aims to create an image gallery app using React.
+Purpose of the this coding challenge is to write a code that can list all the numbers in the given range, whether they are palindromic or perfect numbers.
 
 ## Learning Outcomes
 
-At the end of the project, you will be able to;
+At the end of the this coding challenge, students will be able to;
 
-- improve coding skills within HTML & CSS & JS & ReactJS.
+- analyze a problem, identify and apply programming knowledge for appropriate solution.
 
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+- demonstrate their knowledge of algorithmic design principles by using JavaScript effectively.
 
 ## Problem Statement
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+- Take one or two inputs from user. List the results in the relevant fields using two different buttons.
+- Examples:
+    - if top low limit is 0 and limit value is 1000. List all palindromic and perfect numbers between 0 and 1000.
+    - if top low limit is 50 and limit value is 100. List all palindromic and perfect numbers between 50 and 100.
+
+
 
 ## Project Skeleton
 
@@ -42,24 +47,9 @@ Project(folder)
 
 ### Overview
 
-I mastered HTML & CSS & JS & ReactJS features in this project.
+I mastered HTML & CSS & JS & ReactJS & ReactSass features in this project.
 You can see the visual representation of the website above.
 
-## Notes
 
-- Step 1: Create React App using `npx create-react-app image-gallery`
 
-- Step 2: For images you can use [Images](./src/helper/data.js).
-
-- Step 3: Push your application into your own public repo on Github
-
-- Step 4: Add project gif to your project and README.md file.
-
-## Resources
-
-- 🔥 You can use [`data.js`](./src/helper/data.js) for your own work.
-
-## Support
-Open an Issue, I will check it a soon as possible 👀
-Don't forget to start the repo ⭐
 # <center> ⌛ Happy Coding ✍ </center>
